@@ -1,0 +1,1341 @@
+[18/08/2023 - 16:02] Usuário  fez login com sucesso.
+[18/08/2023 - 16:06] Usuário BRUNO MARTINS fez login com sucesso.
+[18/08/2023 - 16:07] Usuário  fez login com sucesso.
+[19/08/2023 - 16:28] Usuário  fez login com sucesso.
+[19/08/2023 - 16:50] Usuário THIAGO WAISMANN fez login com sucesso.
+[19/08/2023 - 16:55] Usuário  fez login com sucesso.
+[19/08/2023 - 16:57] Usuário  fez login com sucesso.
+[19/08/2023 - 17:04] Usuário  fez login com sucesso.
+[19/08/2023 - 17:08] Usuário  fez login com sucesso.
+[19/08/2023 - 17:12] Usuário THIAGO WAISMANN fez login com sucesso.
+[19/08/2023 - 17:12] Usuário  fez login com sucesso.
+[19/08/2023 - 17:16] Usuário  fez login com sucesso.
+[19/08/2023 - 17:17] Usuário THIAGO WAISMANN fez login com sucesso.
+[19/08/2023 - 17:22] Usuário  fez login com sucesso.
+[19/08/2023 - 17:23] Usuário  fez login com sucesso.
+[19/08/2023 - 17:26] Usuário  fez login com sucesso.
+[21/08/2023 - 07:37] Usuário  fez login com sucesso.
+[21/08/2023 - 07:53] Usuário  fez login com sucesso.
+[21/08/2023 - 07:55] Usuário ANITA APARECIDA fez login com sucesso.
+[21/08/2023 - 10:14] Usuário  fez login com sucesso.
+[21/08/2023 - 10:39] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[21/08/2023 - 10:40] Usuário THIAGO WAISMANN fez login com sucesso.
+[21/08/2023 - 10:43] Usuário  fez login com sucesso.
+[21/08/2023 - 14:19] Usuário  fez login com sucesso.
+[21/08/2023 - 14:31] Usuário THIAGO WAISMANN fez login com sucesso.
+[21/08/2023 - 14:40] Usuário THIAGO WAISMANN fez login com sucesso.
+[21/08/2023 - 14:59] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[21/08/2023 - 14:59] Usuário THIAGO WAISMANN fez login com sucesso.
+[21/08/2023 - 15:06] Usuário  fez login com sucesso.
+[21/08/2023 - 15:24] Tentativa de login com senha inválida para o usuário .
+[21/08/2023 - 15:30] Usuário  fez login com sucesso.
+[21/08/2023 - 15:51] Usuário  fez login com sucesso.
+[21/08/2023 - 16:00] Usuário  fez login com sucesso.
+[21/08/2023 - 16:00] Usuário  fez login com sucesso.
+[21/08/2023 - 16:02] Usuário  fez login com sucesso.
+[21/08/2023 - 16:03] Usuário  fez login com sucesso.
+[21/08/2023 - 16:15] Usuário  fez login com sucesso.
+[21/08/2023 - 16:18] Usuário  fez login com sucesso.
+[21/08/2023 - 16:23] Usuário  fez login com sucesso.
+[21/08/2023 - 16:25] Usuário  fez login com sucesso.
+[21/08/2023 - 16:25] Tentativa de login com senha inválida para o usuário .
+[21/08/2023 - 16:25] Usuário  fez login com sucesso.
+[21/08/2023 - 16:31] Usuário  fez login com sucesso.
+[21/08/2023 - 16:34] Usuário  fez login com sucesso.
+[21/08/2023 - 16:36] Usuário  fez login com sucesso.
+[21/08/2023 - 16:37] Usuário  fez login com sucesso.
+[21/08/2023 - 16:37] Usuário  fez login com sucesso.
+[21/08/2023 - 16:45] Usuário  fez login com sucesso.
+[21/08/2023 - 16:59] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 10:31] Usuário  fez login com sucesso.
+[22/08/2023 - 11:16] Usuário  fez login com sucesso.
+[22/08/2023 - 11:26] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:26] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[22/08/2023 - 11:26] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:28] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:31] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:32] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:39] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:40] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:40] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:46] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:51] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 11:52] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:08] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:14] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:53] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:55] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:56] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 12:59] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:06] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:07] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:09] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:11] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:20] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:27] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:30] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:34] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:50] Usuário  fez login com sucesso.
+[22/08/2023 - 13:56] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:58] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 13:58] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[22/08/2023 - 13:58] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 14:00] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 14:03] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 14:11] Usuário  fez login com sucesso.
+[22/08/2023 - 14:15] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 14:18] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 14:24] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:07] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:07] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:08] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:10] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:12] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:15] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:18] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:21] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:33] Usuário  fez login com sucesso.
+[22/08/2023 - 15:33] Tentativa de login com senha inválida para o usuário .
+[22/08/2023 - 15:33] Usuário  fez login com sucesso.
+[22/08/2023 - 15:34] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:36] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:42] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:46] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:47] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:47] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[22/08/2023 - 15:47] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:49] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:52] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 15:57] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:00] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:04] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:04] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:09] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:13] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:14] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:16] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:16] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[22/08/2023 - 16:17] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:28] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:31] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:35] Usuário THIAGO WAISMANN fez login com sucesso.
+[22/08/2023 - 16:37] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:11] Usuário  fez login com sucesso.
+[23/08/2023 - 08:13] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:18] Usuário  fez login com sucesso.
+[23/08/2023 - 08:35] Usuário  fez login com sucesso.
+[23/08/2023 - 08:39] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:42] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:48] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:51] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 08:55] Usuário  fez login com sucesso.
+[23/08/2023 - 08:56] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:08] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:15] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:17] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:24] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:26] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:28] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:29] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:35] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:35] Tentativa de login com senha inválida para o usuário THIAGO WAISMANN.
+[23/08/2023 - 09:35] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:50] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 09:51] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 10:04] Usuário  fez login com sucesso.
+[23/08/2023 - 10:05] Usuário  fez login com sucesso.
+[23/08/2023 - 10:14] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 10:22] Usuário  fez login com sucesso.
+[23/08/2023 - 10:28] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 10:34] Usuário  fez login com sucesso.
+[23/08/2023 - 13:06] Usuário  fez login com sucesso.
+[23/08/2023 - 13:18] Usuário  fez login com sucesso.
+[23/08/2023 - 13:18] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 13:19] Usuário  fez login com sucesso.
+[23/08/2023 - 13:32] Usuário  fez login com sucesso.
+[23/08/2023 - 14:19] Usuário  fez login com sucesso.
+[23/08/2023 - 14:19] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:21] Usuário  fez login com sucesso.
+[23/08/2023 - 14:23] Usuário  fez login com sucesso.
+[23/08/2023 - 14:23] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:23] Usuário  fez login com sucesso.
+[23/08/2023 - 14:23] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:23] Usuário  fez login com sucesso.
+[23/08/2023 - 14:23] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:26] Usuário  fez login com sucesso.
+[23/08/2023 - 14:26] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:26] Usuário  fez login com sucesso.
+[23/08/2023 - 14:27] Usuário  fez login com sucesso.
+[23/08/2023 - 14:29] Usuário  fez login com sucesso.
+[23/08/2023 - 14:29] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:29] Usuário  fez login com sucesso.
+[23/08/2023 - 14:29] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:33] Usuário  fez login com sucesso.
+[23/08/2023 - 14:33] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:33] Usuário  fez login com sucesso.
+[23/08/2023 - 14:33] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:33] Usuário  fez login com sucesso.
+[23/08/2023 - 14:33] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:34] Usuário  fez login com sucesso.
+[23/08/2023 - 14:35] Usuário  fez login com sucesso.
+[23/08/2023 - 14:35] Tentativa de login com senha inválida para o usuário .
+[23/08/2023 - 14:36] Usuário  fez login com sucesso.
+[23/08/2023 - 14:36] Usuário  fez login com sucesso.
+[23/08/2023 - 14:49] Usuário  fez login com sucesso.
+[23/08/2023 - 14:54] Usuário THIAGO WAISMANN fez login com sucesso.
+[23/08/2023 - 15:03] Usuário  fez login com sucesso.
+[23/08/2023 - 15:07] Usuário  fez login com sucesso.
+[23/08/2023 - 15:13] Usuário  fez login com sucesso.
+[23/08/2023 - 15:17] Usuário  fez login com sucesso.
+[23/08/2023 - 15:17] Usuário  fez login com sucesso.
+[23/08/2023 - 15:27] Usuário  fez login com sucesso.
+[23/08/2023 - 15:39] Usuário  fez login com sucesso.
+[23/08/2023 - 16:18] Usuário  fez login com sucesso.
+[23/08/2023 - 16:19] Usuário  fez login com sucesso.
+[24/08/2023 - 07:32] Usuário  fez login com sucesso.
+[24/08/2023 - 07:40] Usuário  fez login com sucesso.
+[24/08/2023 - 07:40] Usuário  fez login com sucesso.
+[24/08/2023 - 07:40] Usuário  fez login com sucesso.
+[24/08/2023 - 07:49] Usuário  fez login com sucesso.
+[24/08/2023 - 09:11] Usuário  fez login com sucesso.
+[24/08/2023 - 09:15] Usuário  fez login com sucesso.
+[24/08/2023 - 09:16] Usuário  fez login com sucesso.
+[24/08/2023 - 09:23] Usuário  fez login com sucesso.
+[24/08/2023 - 09:27] Usuário JOSIELI HONORATO fez login com sucesso.
+[24/08/2023 - 09:27] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 09:27] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 09:41] Usuário  fez login com sucesso.
+[24/08/2023 - 09:41] Usuário  fez login com sucesso.
+[24/08/2023 - 10:10] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 10:10] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 10:15] Usuário  fez login com sucesso.
+[24/08/2023 - 10:15] Usuário  fez login com sucesso.
+[24/08/2023 - 10:18] Usuário  fez login com sucesso.
+[24/08/2023 - 10:23] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 10:25] Usuário  fez login com sucesso.
+[24/08/2023 - 10:58] Usuário  fez login com sucesso.
+[24/08/2023 - 10:59] Usuário  fez login com sucesso.
+[24/08/2023 - 12:14] Usuário  fez login com sucesso.
+[24/08/2023 - 12:58] Usuário  fez login com sucesso.
+[24/08/2023 - 13:08] Usuário  fez login com sucesso.
+[24/08/2023 - 13:17] Usuário  fez login com sucesso.
+[24/08/2023 - 13:38] Erro ao inserir material no histórico: near "', '": syntax error
+[24/08/2023 - 13:39] Erro ao inserir material no histórico: near "', '": syntax error
+[24/08/2023 - 14:16] Usuário  fez login com sucesso.
+[24/08/2023 - 14:35] Usuário  fez login com sucesso.
+[24/08/2023 - 14:36] Usuário  fez login com sucesso.
+[24/08/2023 - 14:38] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 14:38] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 14:40] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 14:42] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 14:45] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 14:46] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:01] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:11] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:20] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:33] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:45] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:52] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 15:55] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 17:11] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 17:32] Usuário THIAGO WAISMANN fez login com sucesso.
+[24/08/2023 - 17:39] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 07:45] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 07:48] Usuário JOSIELI HONORATO fez login com sucesso.
+[25/08/2023 - 08:23] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 08:26] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 08:46] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 09:53] Usuário  fez login com sucesso.
+[25/08/2023 - 10:16] Usuário  fez login com sucesso.
+[25/08/2023 - 10:59] Usuário  fez login com sucesso.
+[25/08/2023 - 12:09] Usuário  fez login com sucesso.
+[25/08/2023 - 12:44] Usuário  fez login com sucesso.
+[25/08/2023 - 12:44] Usuário  fez login com sucesso.
+[25/08/2023 - 12:44] Usuário  fez login com sucesso.
+[25/08/2023 - 13:04] Usuário  fez login com sucesso.
+[25/08/2023 - 13:04] Usuário JOSIELI HONORATO fez login com sucesso.
+[25/08/2023 - 13:05] Usuário JOSIELI HONORATO fez login com sucesso.
+[25/08/2023 - 13:39] Usuário  fez login com sucesso.
+[25/08/2023 - 13:39] Usuário THIAGO WAISMANN fez login com sucesso.
+[25/08/2023 - 13:42] Usuário  fez login com sucesso.
+[25/08/2023 - 14:16] Usuário  fez login com sucesso.
+[25/08/2023 - 14:39] Usuário  fez login com sucesso.
+[25/08/2023 - 17:22] Usuário  fez login com sucesso.
+[26/08/2023 - 14:46] Usuário  fez login com sucesso.
+[26/08/2023 - 14:50] Usuário  fez login com sucesso.
+[26/08/2023 - 14:57] Usuário  fez login com sucesso.
+[26/08/2023 - 15:55] Usuário  fez login com sucesso.
+[26/08/2023 - 15:57] Usuário  fez login com sucesso.
+[26/08/2023 - 16:43] Usuário  fez login com sucesso.
+[26/08/2023 - 16:48] Usuário  fez login com sucesso.
+[26/08/2023 - 16:57] Usuário  fez login com sucesso.
+[28/08/2023 - 13:03] Usuário  fez login com sucesso.
+[28/08/2023 - 15:32] Usuário  fez login com sucesso.
+[28/08/2023 - 15:45] Usuário  fez login com sucesso.
+[29/08/2023 - 07:41] Usuário  fez login com sucesso.
+[29/08/2023 - 07:41] Usuário  fez login com sucesso.
+[29/08/2023 - 07:44] Usuário  fez login com sucesso.
+[29/08/2023 - 07:51] Usuário  fez login com sucesso.
+[29/08/2023 - 08:51] Usuário  fez login com sucesso.
+[29/08/2023 - 09:25] Usuário  fez login com sucesso.
+[29/08/2023 - 12:19] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JORGE BAGRE fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ADMINISTRADOR fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ADMINISTRADOR fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JORGE BAGRE fez login com sucesso.
+[] Usuário JORGE BAGRE fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário THIAGO WAISMANN fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JOSIELI HONORATO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ROSEANE CORREA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[19/09/2023 - 16:38:35] Usuário  fez login com sucesso.
+[19/09/2023 - 16:42:18] Usuário  fez login com sucesso.
+[19/09/2023 - 16:49:46] Usuário  fez login com sucesso.
+[19/09/2023 - 16:51:59] Usuário  fez login com sucesso.
+[19/09/2023 - 16:53:45] Usuário  fez login com sucesso.
+[19/09/2023 - 16:54:41] Usuário  fez login com sucesso.
+[19/09/2023 - 17:01:00] Usuário  fez login com sucesso.
+[] Usuário ADMINISTRADOR fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário TACIANE RODRIGUES DE OLIVEIRA fez login com sucesso.
+[] Usuário TACIANE RODRIGUES DE OLIVEIRA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ROSEANE CORREA fez login com sucesso.
+[] Usuário ROSEANE CORREA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ANITA APARECIDA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ANITA APARECIDA fez login com sucesso.
+[] Usuário JUDITE HOEPERS fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário LUIZ FELIPE SANTOS VIEIRA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário PAULO SEMBARSKI fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário AIRTON RICARDO LENZ fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário AIRTON RICARDO LENZ fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário DANIELE LIMA DOMINGUES fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JOICE CRISTINI DUTRA fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JUDITE HOEPERS fez login com sucesso.
+[] Usuário JUDITE HOEPERS fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JONATAN LUIS DE SOUSA  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JONATAN LUIS DE SOUSA  fez login com sucesso.
+[] Usuário JONATAN LUIS DE SOUSA  fez login com sucesso.
+[] Usuário JONATAN LUIS DE SOUSA  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário JONATAN LUIS DE SOUSA  fez login com sucesso.
+[] Usuário JUDITE HOEPERS fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário BRUNA VEZZARO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário ADMINISTRADOR fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário BRUNA VEZZARO fez login com sucesso.
+[] Usuário BRUNA VEZZARO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário BRUNA VEZZARO fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário MARCIA TIBES fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+[] Usuário  fez login com sucesso.
+25/09/2023 - 10:30:07: Usuário  fez login com sucesso.
+25/09/2023 - 10:30:17: Usuário  fez login com sucesso.
+25/09/2023 - 10:30:22: Usuário  fez login com sucesso.
+25/09/2023 - 10:30:25: Usuário  fez login com sucesso.
+25/09/2023 - 10:30:33: Usuário  fez login com sucesso.
+25/09/2023 - 10:30:42: Usuário  fez login com sucesso.
+25/09/2023 - 10:33:45: Usuário  fez login com sucesso.
+25/09/2023 - 10:37:12: Usuário  fez login com sucesso.
+25/09/2023 - 10:38:34: Usuário  fez login com sucesso.
+25/09/2023 - 10:38:41: Usuário  fez login com sucesso.
+25/09/2023 - 10:40:00: Usuário  fez login com sucesso.
+25/09/2023 - 10:49:00: Usuário  fez login com sucesso.
+25/09/2023 - 10:49:16: Usuário  fez login com sucesso.
+25/09/2023 - 10:52:32: Usuário  fez login com sucesso.
+25/09/2023 - 10:54:10: Usuário  fez login com sucesso.
+25/09/2023 - 10:54:48: Usuário  fez login com sucesso.
+25/09/2023 - 10:55:00: Usuário  fez login com sucesso.
+25/09/2023 - 11:13:47: Usuário  fez login com sucesso.
+25/09/2023 - 11:13:57: Usuário  fez login com sucesso.
+25/09/2023 - 11:14:12: Usuário  fez login com sucesso.
+25/09/2023 - 11:16:30: Usuário  fez login com sucesso.
+25/09/2023 - 11:18:40: Usuário  fez login com sucesso.
+25/09/2023 - 11:56:42: Usuário  fez login com sucesso.
+25/09/2023 - 12:12:15: Usuário  fez login com sucesso.
+25/09/2023 - 12:12:56: Usuário  fez login com sucesso.
+25/09/2023 - 12:13:21: Usuário  fez login com sucesso.
+25/09/2023 - 12:19:46: Usuário  fez login com sucesso.
+25/09/2023 - 12:19:54: Usuário  fez login com sucesso.
+25/09/2023 - 12:20:51: Usuário  fez login com sucesso.
+25/09/2023 - 12:30:20: Usuário  fez login com sucesso.
+25/09/2023 - 12:32:11: Usuário  fez login com sucesso.
+25/09/2023 - 12:36:33: Usuário  fez login com sucesso.
+25/09/2023 - 12:44:25: Usuário  fez login com sucesso.
+25/09/2023 - 12:46:43: Usuário  fez login com sucesso.
+25/09/2023 - 13:05:33: Usuário  fez login com sucesso.
+25/09/2023 - 13:08:45: Usuário  fez login com sucesso.
+25/09/2023 - 13:13:21: Usuário  fez login com sucesso.
+25/09/2023 - 13:41:59: Usuário  fez login com sucesso.
+25/09/2023 - 13:42:42: Usuário  fez login com sucesso.
+25/09/2023 - 13:44:40: Usuário  fez login com sucesso.
+25/09/2023 - 13:47:11: Usuário  fez login com sucesso.
+25/09/2023 - 13:47:11: Usuário  fez login com sucesso.
+25/09/2023 - 13:48:05: Usuário  fez login com sucesso.
+25/09/2023 - 13:49:36: Usuário  fez login com sucesso.
+25/09/2023 - 13:59:19: Usuário  fez login com sucesso.
+25/09/2023 - 14:10:03: Usuário  fez login com sucesso.
+25/09/2023 - 14:41:53: Usuário  fez login com sucesso.
+25/09/2023 - 14:44:43: Usuário  fez login com sucesso.
+25/09/2023 - 14:55:23: Usuário  fez login com sucesso.
+25/09/2023 - 14:55:38: Usuário  fez login com sucesso.
+25/09/2023 - 14:56:05: Usuário  fez login com sucesso.
+25/09/2023 - 14:56:11: Usuário  fez login com sucesso.
+25/09/2023 - 14:56:19: Usuário  fez login com sucesso.
+25/09/2023 - 15:18:47: Usuário  fez login com sucesso.
+25/09/2023 - 15:23:02: Usuário  fez login com sucesso.
+25/09/2023 - 17:10:06: Usuário  fez login com sucesso.
+25/09/2023 - 17:10:17: Usuário  fez login com sucesso.
+25/09/2023 - 17:11:09: Usuário  fez login com sucesso.
+25/09/2023 - 17:31:21: Usuário  fez login com sucesso.
+25/09/2023 - 17:34:07: Usuário  fez login com sucesso.
+25/09/2023 - 18:03:15: Usuário  fez login com sucesso.
+25/09/2023 - 18:03:42: Usuário  fez login com sucesso.
+25/09/2023 - 18:19:52: Usuário  fez login com sucesso.
+25/09/2023 - 18:20:55: Usuário  fez login com sucesso.
+25/09/2023 - 19:00:56: Usuário  fez login com sucesso.
+25/09/2023 - 19:19:42: Usuário  fez login com sucesso.
+25/09/2023 - 19:48:13: Usuário  fez login com sucesso.
+25/09/2023 - 20:42:39: Usuário  fez login com sucesso.
+25/09/2023 - 20:47:45: Usuário  fez login com sucesso.
+25/09/2023 - 21:26:04: Usuário  fez login com sucesso.
+25/09/2023 - 21:26:14: Usuário  fez login com sucesso.
+25/09/2023 - 22:05:25: Usuário  fez login com sucesso.
+25/09/2023 - 22:16:55: Usuário  fez login com sucesso.
+25/09/2023 - 22:24:06: Usuário  fez login com sucesso.
+25/09/2023 - 22:32:16: Usuário  fez login com sucesso.
+25/09/2023 - 22:53:42: Usuário  fez login com sucesso.
+25/09/2023 - 22:56:59: Usuário  fez login com sucesso.
+25/09/2023 - 22:58:03: Usuário  fez login com sucesso.
+25/09/2023 - 22:58:47: Usuário  fez login com sucesso.
+26/09/2023 - 00:05:42: Usuário  fez login com sucesso.
+26/09/2023 - 00:33:57: Usuário BRUNA VEZZARO fez login com sucesso.
+26/09/2023 - 00:35:11: Usuário  fez login com sucesso.
+26/09/2023 - 04:48:21: Usuário BRUNA VEZZARO fez login com sucesso.
+26/09/2023 - 04:49:08: Usuário  fez login com sucesso.
+26/09/2023 - 04:49:37: Usuário  fez login com sucesso.
+26/09/2023 - 06:15:36: Usuário  fez login com sucesso.
+26/09/2023 - 06:25:13: Usuário  fez login com sucesso.
+26/09/2023 - 06:25:18: Usuário  fez login com sucesso.
+26/09/2023 - 06:25:28: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:25:30: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:25:42: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:25:54: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:25:55: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:25:55: Usuário JUDITE HOEPERS fez login com sucesso.
+26/09/2023 - 06:40:27: Usuário  fez login com sucesso.
+26/09/2023 - 06:48:15: Usuário  fez login com sucesso.
+26/09/2023 - 07:16:13: Usuário  fez login com sucesso.
+26/09/2023 - 07:30:52: Usuário  fez login com sucesso.
+26/09/2023 - 07:32:45: Usuário  fez login com sucesso.
+26/09/2023 - 07:32:51: Usuário  fez login com sucesso.
+26/09/2023 - 07:32:55: Usuário  fez login com sucesso.
+26/09/2023 - 07:33:03: Usuário  fez login com sucesso.
+26/09/2023 - 08:00:11: Usuário  fez login com sucesso.
+26/09/2023 - 08:14:51: Usuário  fez login com sucesso.
+26/09/2023 - 08:17:27: Usuário  fez login com sucesso.
+26/09/2023 - 08:43:38: Usuário  fez login com sucesso.
+26/09/2023 - 08:49:15: Usuário  fez login com sucesso.
+26/09/2023 - 08:55:57: Usuário  fez login com sucesso.
+26/09/2023 - 09:25:15: Usuário  fez login com sucesso.
+26/09/2023 - 10:46:45: Usuário  fez login com sucesso.
+26/09/2023 - 10:53:22: Usuário  fez login com sucesso.
+26/09/2023 - 11:21:23: Usuário  fez login com sucesso.
+26/09/2023 - 11:21:27: Usuário  fez login com sucesso.
+26/09/2023 - 11:22:24: Usuário  fez login com sucesso.
+26/09/2023 - 11:26:04: Usuário  fez login com sucesso.
+26/09/2023 - 11:34:24: Usuário  fez login com sucesso.
+26/09/2023 - 11:37:34: Usuário  fez login com sucesso.
+26/09/2023 - 11:43:19: Usuário  fez login com sucesso.
+26/09/2023 - 11:43:32: Usuário  fez login com sucesso.
+26/09/2023 - 11:44:21: Usuário  fez login com sucesso.
+26/09/2023 - 11:44:28: Usuário  fez login com sucesso.
+26/09/2023 - 11:46:57: Usuário  fez login com sucesso.
+26/09/2023 - 11:51:01: Usuário  fez login com sucesso.
+26/09/2023 - 11:51:06: Usuário  fez login com sucesso.
+26/09/2023 - 11:52:56: Usuário  fez login com sucesso.
+26/09/2023 - 11:53:20: Usuário  fez login com sucesso.
+26/09/2023 - 12:17:09: Usuário  fez login com sucesso.
+26/09/2023 - 12:22:29: Usuário  fez login com sucesso.
+26/09/2023 - 12:26:26: Usuário  fez login com sucesso.
+26/09/2023 - 12:37:36: Usuário RENATA TONI DE LIMA fez login com sucesso.
+26/09/2023 - 13:02:53: Usuário  fez login com sucesso.
+26/09/2023 - 13:04:00: Usuário  fez login com sucesso.
+26/09/2023 - 13:04:07: Usuário  fez login com sucesso.
+26/09/2023 - 13:05:27: Usuário  fez login com sucesso.
+26/09/2023 - 13:11:23: Usuário  fez login com sucesso.
+26/09/2023 - 13:11:51: Usuário  fez login com sucesso.
+26/09/2023 - 13:17:31: Usuário  fez login com sucesso.
+26/09/2023 - 13:17:37: Usuário  fez login com sucesso.
+26/09/2023 - 13:30:52: Usuário  fez login com sucesso.
+26/09/2023 - 13:39:59: Usuário  fez login com sucesso.
+26/09/2023 - 13:42:35: Usuário  fez login com sucesso.
+26/09/2023 - 13:44:02: Usuário  fez login com sucesso.
+26/09/2023 - 13:44:27: Usuário  fez login com sucesso.
+26/09/2023 - 13:44:54: Usuário  fez login com sucesso.
+26/09/2023 - 13:56:29: Usuário  fez login com sucesso.
+26/09/2023 - 13:58:38: Usuário  fez login com sucesso.
+26/09/2023 - 13:58:49: Usuário  fez login com sucesso.
+26/09/2023 - 13:59:48: Usuário  fez login com sucesso.
+26/09/2023 - 13:59:57: Usuário  fez login com sucesso.
+26/09/2023 - 14:00:08: Usuário  fez login com sucesso.
+26/09/2023 - 15:10:58: Usuário  fez login com sucesso.
+26/09/2023 - 15:11:10: Usuário  fez login com sucesso.
+26/09/2023 - 15:12:47: Usuário  fez login com sucesso.
+26/09/2023 - 15:38:45: Usuário  fez login com sucesso.
+26/09/2023 - 16:12:43: Usuário  fez login com sucesso.
+26/09/2023 - 16:15:18: Usuário  fez login com sucesso.
+26/09/2023 - 16:15:30: Usuário  fez login com sucesso.
+26/09/2023 - 16:36:43: Usuário  fez login com sucesso.
+26/09/2023 - 16:36:54: Usuário  fez login com sucesso.
+26/09/2023 - 16:42:37: Usuário  fez login com sucesso.
+26/09/2023 - 16:43:28: Usuário  fez login com sucesso.
+26/09/2023 - 16:43:45: Usuário  fez login com sucesso.
+26/09/2023 - 16:43:59: Usuário  fez login com sucesso.
+26/09/2023 - 16:44:08: Usuário  fez login com sucesso.
+26/09/2023 - 16:45:26: Usuário  fez login com sucesso.
+26/09/2023 - 16:45:55: Usuário  fez login com sucesso.
+26/09/2023 - 16:46:32: Usuário  fez login com sucesso.
+26/09/2023 - 16:46:58: Usuário  fez login com sucesso.
+26/09/2023 - 16:47:41: Usuário  fez login com sucesso.
+26/09/2023 - 16:48:06: Usuário  fez login com sucesso.
+26/09/2023 - 16:51:41: Usuário  fez login com sucesso.
+26/09/2023 - 16:52:26: Usuário  fez login com sucesso.
+26/09/2023 - 16:53:22: Usuário  fez login com sucesso.
+26/09/2023 - 18:28:00: Usuário  fez login com sucesso.
+26/09/2023 - 18:30:08: Usuário  fez login com sucesso.
+26/09/2023 - 18:34:34: Usuário  fez login com sucesso.
+26/09/2023 - 18:57:34: Usuário  fez login com sucesso.
+26/09/2023 - 19:04:48: Usuário  fez login com sucesso.
+26/09/2023 - 19:05:24: Usuário  fez login com sucesso.
+26/09/2023 - 19:19:37: Usuário  fez login com sucesso.
+26/09/2023 - 19:43:39: Usuário  fez login com sucesso.
+26/09/2023 - 20:21:34: Usuário  fez login com sucesso.
+26/09/2023 - 20:53:49: Usuário  fez login com sucesso.
+26/09/2023 - 21:22:01: Usuário  fez login com sucesso.
+26/09/2023 - 21:25:14: Usuário  fez login com sucesso.
+26/09/2023 - 21:26:07: Usuário  fez login com sucesso.
+26/09/2023 - 21:42:35: Usuário  fez login com sucesso.
+26/09/2023 - 21:59:10: Usuário  fez login com sucesso.
+26/09/2023 - 22:15:29: Usuário  fez login com sucesso.
+26/09/2023 - 22:16:23: Usuário  fez login com sucesso.
+26/09/2023 - 22:17:15: Usuário  fez login com sucesso.
+26/09/2023 - 22:25:43: Usuário  fez login com sucesso.
+26/09/2023 - 22:32:08: Usuário  fez login com sucesso.
+26/09/2023 - 22:33:23: Usuário  fez login com sucesso.
+26/09/2023 - 22:42:34: Usuário  fez login com sucesso.
+26/09/2023 - 22:57:46: Usuário  fez login com sucesso.
+26/09/2023 - 22:59:01: Usuário  fez login com sucesso.
+26/09/2023 - 22:59:25: Usuário  fez login com sucesso.
+26/09/2023 - 22:59:34: Usuário  fez login com sucesso.
+26/09/2023 - 23:02:15: Usuário  fez login com sucesso.
+27/09/2023 - 03:59:55: Usuário  fez login com sucesso.
+27/09/2023 - 04:00:22: Usuário  fez login com sucesso.
+27/09/2023 - 04:00:45: Usuário  fez login com sucesso.
+27/09/2023 - 04:01:09: Usuário  fez login com sucesso.
+27/09/2023 - 04:01:33: Usuário  fez login com sucesso.
+27/09/2023 - 05:07:41: Usuário  fez login com sucesso.
+27/09/2023 - 05:09:45: Usuário  fez login com sucesso.
+27/09/2023 - 05:10:16: Usuário  fez login com sucesso.
+27/09/2023 - 05:11:30: Usuário  fez login com sucesso.
+27/09/2023 - 05:58:13: Usuário  fez login com sucesso.
+27/09/2023 - 06:01:38: Usuário  fez login com sucesso.
+27/09/2023 - 06:32:45: Usuário  fez login com sucesso.
+27/09/2023 - 06:37:46: Usuário AIRTON RICARDO LENZ fez login com sucesso.
+27/09/2023 - 06:38:24: Usuário  fez login com sucesso.
+27/09/2023 - 06:38:44: Usuário  fez login com sucesso.
+27/09/2023 - 07:12:46: Usuário  fez login com sucesso.
+27/09/2023 - 07:19:20: Usuário  fez login com sucesso.
+27/09/2023 - 07:21:57: Usuário  fez login com sucesso.
+27/09/2023 - 07:22:37: Usuário  fez login com sucesso.
+27/09/2023 - 07:26:15: Usuário ROSEANE CORREA fez login com sucesso.
+27/09/2023 - 07:44:02: Usuário  fez login com sucesso.
+27/09/2023 - 08:04:18: Usuário  fez login com sucesso.
+27/09/2023 - 08:05:28: Usuário  fez login com sucesso.
+27/09/2023 - 08:09:42: Usuário  fez login com sucesso.
+27/09/2023 - 08:17:53: Usuário  fez login com sucesso.
+27/09/2023 - 08:20:44: Usuário  fez login com sucesso.
+27/09/2023 - 08:21:21: Usuário  fez login com sucesso.
+27/09/2023 - 08:22:48: Usuário  fez login com sucesso.
+27/09/2023 - 08:24:29: Usuário  fez login com sucesso.
+27/09/2023 - 08:25:40: Usuário  fez login com sucesso.
+27/09/2023 - 08:26:44: Usuário  fez login com sucesso.
+27/09/2023 - 08:28:14: Usuário ADMINISTRADOR fez login com sucesso.
+27/09/2023 - 08:33:15: Usuário  fez login com sucesso.
+27/09/2023 - 08:42:22: Usuário  fez login com sucesso.
+27/09/2023 - 08:42:39: Usuário  fez login com sucesso.
+27/09/2023 - 08:55:41: Usuário  fez login com sucesso.
+27/09/2023 - 09:03:26: Usuário  fez login com sucesso.
+27/09/2023 - 09:26:02: Usuário  fez login com sucesso.
+27/09/2023 - 09:40:06: Usuário  fez login com sucesso.
+27/09/2023 - 09:50:31: Usuário  fez login com sucesso.
+27/09/2023 - 10:18:37: Usuário  fez login com sucesso.
+27/09/2023 - 10:19:42: Usuário  fez login com sucesso.
+27/09/2023 - 10:28:30: Usuário  fez login com sucesso.
+27/09/2023 - 10:35:51: Usuário  fez login com sucesso.
+27/09/2023 - 10:39:06: Usuário  fez login com sucesso.
+27/09/2023 - 10:39:45: Usuário  fez login com sucesso.
+27/09/2023 - 10:39:50: Usuário  fez login com sucesso.
+27/09/2023 - 11:08:22: Usuário  fez login com sucesso.
+27/09/2023 - 11:11:22: Usuário  fez login com sucesso.
+27/09/2023 - 11:12:19: Usuário  fez login com sucesso.
+27/09/2023 - 11:40:26: Usuário  fez login com sucesso.
+27/09/2023 - 11:52:35: Usuário  fez login com sucesso.
+27/09/2023 - 11:53:29: Usuário  fez login com sucesso.
+27/09/2023 - 11:54:23: Usuário  fez login com sucesso.
+27/09/2023 - 11:55:01: Usuário  fez login com sucesso.
+27/09/2023 - 12:07:34: Usuário  fez login com sucesso.
+27/09/2023 - 12:08:16: Usuário  fez login com sucesso.
+27/09/2023 - 12:08:23: Usuário  fez login com sucesso.
+27/09/2023 - 12:09:02: Usuário  fez login com sucesso.
+27/09/2023 - 12:09:35: Usuário  fez login com sucesso.
+27/09/2023 - 12:10:27: Usuário  fez login com sucesso.
+27/09/2023 - 12:10:33: Usuário  fez login com sucesso.
+27/09/2023 - 12:12:30: Usuário  fez login com sucesso.
+27/09/2023 - 12:15:08: Usuário  fez login com sucesso.
+27/09/2023 - 12:17:51: Usuário  fez login com sucesso.
+27/09/2023 - 12:18:37: Usuário  fez login com sucesso.
+27/09/2023 - 12:20:01: Usuário  fez login com sucesso.
+27/09/2023 - 12:20:22: Usuário  fez login com sucesso.
+27/09/2023 - 12:20:55: Usuário  fez login com sucesso.
+27/09/2023 - 12:21:12: Usuário  fez login com sucesso.
+27/09/2023 - 12:22:12: Usuário  fez login com sucesso.
+27/09/2023 - 12:22:57: Usuário  fez login com sucesso.
+27/09/2023 - 12:27:56: Usuário  fez login com sucesso.
+27/09/2023 - 12:28:19: Usuário  fez login com sucesso.
+27/09/2023 - 12:42:03: Usuário  fez login com sucesso.
+27/09/2023 - 12:43:46: Usuário  fez login com sucesso.
+27/09/2023 - 12:47:25: Usuário  fez login com sucesso.
+27/09/2023 - 12:52:24: Usuário  fez login com sucesso.
+27/09/2023 - 12:53:20: Usuário  fez login com sucesso.
+27/09/2023 - 13:04:02: Usuário  fez login com sucesso.
+27/09/2023 - 13:21:42: Usuário  fez login com sucesso.
+27/09/2023 - 13:22:43: Usuário  fez login com sucesso.
+27/09/2023 - 13:28:20: Usuário  fez login com sucesso.
+27/09/2023 - 13:28:37: Usuário  fez login com sucesso.
+27/09/2023 - 13:28:56: Usuário  fez login com sucesso.
+27/09/2023 - 13:29:32: Usuário  fez login com sucesso.
+27/09/2023 - 13:31:22: Usuário  fez login com sucesso.
+27/09/2023 - 13:34:40: Usuário  fez login com sucesso.
+27/09/2023 - 13:44:09: Usuário  fez login com sucesso.
+27/09/2023 - 13:45:09: Usuário  fez login com sucesso.
+27/09/2023 - 13:45:29: Usuário  fez login com sucesso.
+27/09/2023 - 13:49:17: Usuário  fez login com sucesso.
+27/09/2023 - 13:50:44: Usuário  fez login com sucesso.
+27/09/2023 - 13:51:52: Usuário  fez login com sucesso.
+27/09/2023 - 13:52:33: Usuário  fez login com sucesso.
+27/09/2023 - 13:54:32: Usuário  fez login com sucesso.
+27/09/2023 - 15:07:21: Usuário  fez login com sucesso.
+27/09/2023 - 15:51:48: Usuário  fez login com sucesso.
+27/09/2023 - 16:13:55: Usuário  fez login com sucesso.
+27/09/2023 - 16:21:29: Usuário ADMINISTRADOR fez login com sucesso.
+27/09/2023 - 16:22:18: Usuário  fez login com sucesso.
+27/09/2023 - 16:28:33: Usuário  fez login com sucesso.
+27/09/2023 - 16:48:06: Usuário  fez login com sucesso.
+27/09/2023 - 16:53:37: Usuário  fez login com sucesso.
+27/09/2023 - 16:55:55: Usuário  fez login com sucesso.
+27/09/2023 - 16:58:35: Usuário  fez login com sucesso.
+27/09/2023 - 17:05:29: Usuário  fez login com sucesso.
+27/09/2023 - 17:32:26: Usuário  fez login com sucesso.
+27/09/2023 - 17:34:05: Usuário  fez login com sucesso.
+27/09/2023 - 17:34:56: Usuário  fez login com sucesso.
+27/09/2023 - 18:02:57: Usuário  fez login com sucesso.
+27/09/2023 - 18:14:14: Usuário  fez login com sucesso.
+27/09/2023 - 18:19:01: Usuário  fez login com sucesso.
+27/09/2023 - 18:32:45: Usuário  fez login com sucesso.
+27/09/2023 - 18:36:06: Usuário  fez login com sucesso.
+27/09/2023 - 18:48:00: Usuário  fez login com sucesso.
+27/09/2023 - 18:51:24: Usuário  fez login com sucesso.
+27/09/2023 - 18:56:42: Usuário  fez login com sucesso.
+27/09/2023 - 18:56:51: Usuário  fez login com sucesso.
+27/09/2023 - 18:57:19: Usuário  fez login com sucesso.
+27/09/2023 - 19:14:36: Usuário  fez login com sucesso.
+27/09/2023 - 19:15:48: Usuário  fez login com sucesso.
+27/09/2023 - 19:17:09: Usuário  fez login com sucesso.
+27/09/2023 - 19:24:15: Usuário  fez login com sucesso.
+27/09/2023 - 19:28:52: Usuário DANIELE LIMA DOMINGUES fez login com sucesso.
+27/09/2023 - 19:29:16: Usuário  fez login com sucesso.
+27/09/2023 - 19:30:36: Usuário  fez login com sucesso.
+27/09/2023 - 20:37:43: Usuário  fez login com sucesso.
+27/09/2023 - 20:42:42: Usuário  fez login com sucesso.
+27/09/2023 - 21:03:40: Usuário  fez login com sucesso.
+27/09/2023 - 21:37:47: Usuário  fez login com sucesso.
+27/09/2023 - 21:37:53: Usuário  fez login com sucesso.
+27/09/2023 - 21:40:04: Usuário  fez login com sucesso.
+27/09/2023 - 21:45:13: Usuário  fez login com sucesso.
+27/09/2023 - 22:02:09: Usuário  fez login com sucesso.
+27/09/2023 - 22:37:25: Usuário  fez login com sucesso.
+27/09/2023 - 22:37:50: Usuário  fez login com sucesso.
+27/09/2023 - 22:38:13: Usuário  fez login com sucesso.
+27/09/2023 - 22:54:02: Usuário  fez login com sucesso.
+27/09/2023 - 22:55:40: Usuário  fez login com sucesso.
+27/09/2023 - 22:58:43: Usuário  fez login com sucesso.
+27/09/2023 - 23:05:34: Usuário  fez login com sucesso.
+27/09/2023 - 23:07:39: Usuário  fez login com sucesso.
+27/09/2023 - 23:12:53: Usuário  fez login com sucesso.
+27/09/2023 - 23:28:33: Usuário  fez login com sucesso.
+28/09/2023 - 00:52:38: Usuário  fez login com sucesso.
+28/09/2023 - 01:44:14: Usuário  fez login com sucesso.
+28/09/2023 - 02:09:21: Usuário  fez login com sucesso.
+28/09/2023 - 02:38:18: Usuário  fez login com sucesso.
+28/09/2023 - 03:48:48: Usuário  fez login com sucesso.
+28/09/2023 - 04:27:24: Usuário  fez login com sucesso.
+28/09/2023 - 04:44:43: Usuário  fez login com sucesso.
+28/09/2023 - 05:01:44: Usuário BRUNA VEZZARO fez login com sucesso.
+28/09/2023 - 05:07:50: Usuário  fez login com sucesso.
+28/09/2023 - 05:56:27: Usuário  fez login com sucesso.
+28/09/2023 - 06:27:22: Usuário  fez login com sucesso.
+28/09/2023 - 07:00:53: Usuário  fez login com sucesso.
+28/09/2023 - 07:04:08: Usuário  fez login com sucesso.
+28/09/2023 - 07:21:10: Usuário  fez login com sucesso.
+28/09/2023 - 07:46:38: Usuário  fez login com sucesso.
+28/09/2023 - 07:55:18: Usuário  fez login com sucesso.
+28/09/2023 - 07:58:05: Usuário  fez login com sucesso.
+28/09/2023 - 07:59:17: Usuário  fez login com sucesso.
+28/09/2023 - 08:05:48: Usuário  fez login com sucesso.
+28/09/2023 - 08:16:03: Usuário  fez login com sucesso.
+28/09/2023 - 08:24:43: Usuário  fez login com sucesso.
+28/09/2023 - 08:29:12: Usuário  fez login com sucesso.
+28/09/2023 - 08:31:56: Usuário  fez login com sucesso.
+28/09/2023 - 08:35:35: Usuário  fez login com sucesso.
+28/09/2023 - 08:49:58: Usuário  fez login com sucesso.
+28/09/2023 - 08:51:52: Usuário  fez login com sucesso.
+28/09/2023 - 09:23:29: Usuário  fez login com sucesso.
+28/09/2023 - 10:19:09: Usuário  fez login com sucesso.
+28/09/2023 - 10:19:54: Usuário  fez login com sucesso.
+28/09/2023 - 10:25:38: Usuário  fez login com sucesso.
+28/09/2023 - 10:25:55: Usuário  fez login com sucesso.
+28/09/2023 - 10:39:53: Usuário  fez login com sucesso.
+28/09/2023 - 10:45:53: Usuário  fez login com sucesso.
+28/09/2023 - 10:51:26: Usuário  fez login com sucesso.
+28/09/2023 - 10:59:26: Usuário  fez login com sucesso.
+28/09/2023 - 11:09:53: Usuário LETICIA NAYARA VOLPI  fez login com sucesso.
+28/09/2023 - 11:10:04: Usuário LETICIA NAYARA VOLPI  fez login com sucesso.
+28/09/2023 - 11:11:19: Usuário  fez login com sucesso.
+28/09/2023 - 11:11:46: Usuário  fez login com sucesso.
+28/09/2023 - 11:14:58: Usuário  fez login com sucesso.
+28/09/2023 - 11:19:38: Usuário  fez login com sucesso.
+28/09/2023 - 11:19:44: Usuário  fez login com sucesso.
+28/09/2023 - 11:25:15: Usuário  fez login com sucesso.
+28/09/2023 - 11:25:23: Usuário  fez login com sucesso.
+28/09/2023 - 11:26:28: Usuário  fez login com sucesso.
+28/09/2023 - 11:27:01: Usuário  fez login com sucesso.
+28/09/2023 - 11:27:36: Usuário  fez login com sucesso.
+28/09/2023 - 11:27:44: Usuário  fez login com sucesso.
+28/09/2023 - 11:28:12: Usuário  fez login com sucesso.
+28/09/2023 - 11:28:41: Usuário  fez login com sucesso.
+28/09/2023 - 11:30:16: Usuário  fez login com sucesso.
+28/09/2023 - 11:31:52: Usuário  fez login com sucesso.
+28/09/2023 - 11:35:14: Usuário  fez login com sucesso.
+28/09/2023 - 11:35:58: Usuário  fez login com sucesso.
+28/09/2023 - 11:36:27: Usuário  fez login com sucesso.
+28/09/2023 - 11:36:59: Usuário  fez login com sucesso.
+28/09/2023 - 11:37:48: Usuário  fez login com sucesso.
+28/09/2023 - 11:53:16: Usuário  fez login com sucesso.
+28/09/2023 - 12:04:19: Usuário  fez login com sucesso.
+28/09/2023 - 12:18:16: Usuário  fez login com sucesso.
+28/09/2023 - 12:18:56: Usuário  fez login com sucesso.
+28/09/2023 - 12:34:33: Usuário  fez login com sucesso.
+28/09/2023 - 12:48:39: Usuário  fez login com sucesso.
+28/09/2023 - 12:49:09: Usuário  fez login com sucesso.
+28/09/2023 - 12:52:38: Usuário  fez login com sucesso.
+28/09/2023 - 12:54:20: Usuário  fez login com sucesso.
+28/09/2023 - 13:11:07: Usuário  fez login com sucesso.
+28/09/2023 - 13:16:32: Usuário  fez login com sucesso.
+28/09/2023 - 13:28:12: Usuário  fez login com sucesso.
+28/09/2023 - 13:36:11: Usuário  fez login com sucesso.
+28/09/2023 - 13:43:54: Usuário  fez login com sucesso.
+28/09/2023 - 13:45:17: Usuário  fez login com sucesso.
+28/09/2023 - 13:47:08: Usuário  fez login com sucesso.
+28/09/2023 - 13:47:24: Usuário  fez login com sucesso.
+28/09/2023 - 13:53:16: Usuário  fez login com sucesso.
+28/09/2023 - 13:53:19: Usuário  fez login com sucesso.
+28/09/2023 - 13:59:37: Usuário  fez login com sucesso.
+28/09/2023 - 13:59:45: Usuário  fez login com sucesso.
+28/09/2023 - 14:07:58: Usuário  fez login com sucesso.
+28/09/2023 - 14:31:05: Usuário  fez login com sucesso.
+28/09/2023 - 14:41:07: Usuário  fez login com sucesso.
+28/09/2023 - 15:07:20: Usuário  fez login com sucesso.
